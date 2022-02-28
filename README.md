@@ -13,4 +13,4 @@ Chat to classmates directly or in a group <br/>
 Email your professor about assignments and deadlines <br/>
 
 ## Initial Prototype
-
+![Screenshot] (Screen Shot 2022-02-27 at 10.13.00 PM.png)
