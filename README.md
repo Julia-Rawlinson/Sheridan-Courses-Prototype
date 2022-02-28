@@ -15,8 +15,8 @@ Chat to classmates directly or in a group <br/>
 Email your professor about assignments and deadlines <br/>
 
 ## Links
-https://www.figma.com/file/ke0SIT5LW9hW4IDKt4khsE/Assignment-Two?node-id=0%3A1
-
+https://www.figma.com/file/ke0SIT5LW9hW4IDKt4khsE/Assignment-Two?node-id=0%3A1 <br/>
+https://youtu.be/mt5zTzCY9P4
 
 ## Initial Prototype
 
